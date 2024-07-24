@@ -1,0 +1,20 @@
+{
+    "dangre": {
+        "name": "Daniel Green",
+        "department": 4,
+        "sales": [4, 3, 7]
+    },
+    "jenbar": {
+        "name": "Jennifer Barnes",
+        "department": 1
+    },
+    "tomcla": {
+        "name": "Thomas Clark",
+        "department": 1
+    },
+    "amywes": {
+        "name": "Amy Weston",
+        "department": 4,
+        "sales": [2, 7, 4, 9]
+    }
+}

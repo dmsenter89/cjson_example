@@ -1,3 +1,7 @@
+# my binaries
+parse
+test_parse
+
 # Prerequisites
 *.d
 
